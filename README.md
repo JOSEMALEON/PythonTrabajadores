@@ -19,7 +19,7 @@ Este proyecto es un componente desarrollado en **Python** para la gestión de ho
 
 ## 📂 Estructura del Proyecto
 ```
-📦 erp-crm-reporte-horas
+📦 PythonTrabajadores
  ┣ 📜 main.py             # Punto de entrada del programa
  ┣ 📜 entrada_datos.py     # Módulo de ingreso de datos
  ┣ 📜 procesamiento.py     # Módulo de cálculo de totales y promedios
@@ -32,8 +32,8 @@ Este proyecto es un componente desarrollado en **Python** para la gestión de ho
 ## 🚀 Instalación y Uso
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/erp-crm-reporte-horas.git
-cd erp-crm-reporte-horas
+git clone https://github.com/tu-usuario/PythonTrabajadores.git
+cd PythonTrabajadores
 ```
 
 ### 2️⃣ Instalar dependencias
@@ -46,11 +46,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📋 Documentación
-Para más detalles sobre el código, revisa la [documentación completa](DOCUMENTACION.md).
-
-## 📌 Capturas de Pantalla
-_Aquí puedes agregar imágenes del programa en ejecución._
 
 ## 📜 Licencia
 Este proyecto está bajo la **Licencia MIT**.
